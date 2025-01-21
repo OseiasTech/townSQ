@@ -1,0 +1,12 @@
+{
+  "name": "projeto",
+  "version": "1.0.0",
+  "license": "MIT",
+  "cypress-cucumber-preprocessor": {
+    "step_definitions": "cypress/support/step"
+  },
+  "devDependencies": {
+    "cypress": "14.0.0",
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  }
+}
